@@ -1,3 +1,4 @@
+;2.calisma
 .model small ;bellek modeli ayarlandi
 .stack 32 ;programin kullanacagi yigit boyutu ayarlandi
 .data ; programin kullanacagi data bolutunu ayarlariz
