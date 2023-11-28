@@ -1,3 +1,4 @@
+;4.calisma
 .model small ;bellek modelini belirledik
 .stack 32    ;programin kullanacagi stack boyutunu ayarladik
 
