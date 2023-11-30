@@ -3,7 +3,7 @@ Assembly workspace for hardware behavior
 
 ## How to compile .asm file
 
-1-Download emu8086 ide
+1-[Download DOSBox](https://softchamp.com/download-emu8086)
 
 2-Open .asm file
 
