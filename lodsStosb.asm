@@ -15,6 +15,7 @@ name "lodsb ve stosb ile tersten yazdirma"
    mov ds,ax
    mov es,ax
    
+   ;SON İNDEXTEN YERLESTIRMEYE BASLAR EGER MOV SI,7 OLSAYDI VE CLD , STD YERLERI DEGISSEYDI BASTAN YAZACAKTI
    mov si,offset sayilar
    mov di,offset ters
    add di,7 ;TERSTE INDEX SONU GOSTERSIN
